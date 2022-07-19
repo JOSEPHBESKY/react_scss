@@ -1,0 +1,25 @@
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+/* mixin */
+
+/* @mixin name-style{
+  background-color: yellow;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+} */
+
+/* function */
+
+/* @function name-style($first,$second){
+  @return linearGradient(to right , red,yellow)
+} */
